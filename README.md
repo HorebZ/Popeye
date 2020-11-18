@@ -1,8 +1,8 @@
-[![GitHub contributors](https://img.shields.io/github/contributors/HorebParraud/Need4Stek?style=for-the-badge)](https://github.com/HorebParraud/Need4Stek/graphs/contributors)
-[![GitHub forks](https://img.shields.io/github/forks/HorebParraud/Need4Stek?style=for-the-badge)](https://github.com/HorebParraud/Need4Stek/network)
-[![GitHub stars](https://img.shields.io/github/stars/HorebParraud/Need4Stek?style=for-the-badge)](https://github.com/HorebParraud/Need4Stek/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/HorebParraud/Need4Stek?style=for-the-badge)](https://github.com/HorebParraud/Need4Stek/issues)
-[![GitHub license](https://img.shields.io/github/license/HorebParraud/Need4Stek?style=for-the-badge)](https://github.com/HorebParraud/Need4Stek)
+[![GitHub contributors](https://img.shields.io/github/contributors/HorebParraud/Popeye?style=for-the-badge)](https://github.com/HorebParraud/Popeye/graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/HorebParraud/Popeye?style=for-the-badge)](https://github.com/HorebParraud/Popeye/network)
+[![GitHub stars](https://img.shields.io/github/stars/HorebParraud/Popeye?style=for-the-badge)](https://github.com/HorebParraud/Popeye/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/HorebParraud/Popeye?style=for-the-badge)](https://github.com/HorebParraud/Popeye/issues)
+[![GitHub license](https://img.shields.io/github/license/HorebParraud/Popeye?style=for-the-badge)](https://github.com/HorebParraud/Popeye)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -18,16 +18,16 @@
     EPITECH project - DevOps
     <br />
     <br />
-    <a href="https://github.com/HorepParraud/Need4Stek/issues">Report Bug</a>
+    <a href="https://github.com/HorepParraud/Popeye/issues">Report Bug</a>
     ·
-    <a href="https://github.com/HorebParraud/Need4Stek/issues">Request Feature</a>
+    <a href="https://github.com/HorebParraud/Popeye/issues">Request Feature</a>
   </p>
 </p>
 
 
 <!-- IMPORTANT -->
 ## Important!
-**If you are seeing this repository, please just star it! It will not take much time! :)**
+**If you are seeing this repository, please just ⭐ it! It will not take much time! :)**
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
